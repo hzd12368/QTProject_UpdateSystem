@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/UpdateSystem">
+        <file>images/NewVersion.gif</file>
+    </qresource>
+</RCC>
